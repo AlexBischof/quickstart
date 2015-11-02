@@ -38,8 +38,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.jboss.quickstarts.eap</groupId>
-            <artifactId>jboss-jaxws-pojo-service</artifactId>
+            <groupId>org.jboss.quickstarts</groupId>
+            <artifactId>wildfly-jaxws-pojo-service</artifactId>
             <version>${project.version}</version>
             <classifier>classes</classifier>
         </dependency>

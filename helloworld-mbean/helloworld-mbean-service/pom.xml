@@ -23,7 +23,7 @@
         <artifactId>wildfly-helloworld-mbean</artifactId>
         <version>10.0.0-SNAPSHOT</version>
     </parent>
-    <artifactId>jboss-helloworld-mbean-helloworld-mbean-service</artifactId>
+    <artifactId>wildfly-helloworld-mbean-helloworld-mbean-service</artifactId>
     <packaging>jboss-sar</packaging>
     <name>WildFly Quickstart: helloworld-mbean - helloworld-mbean-service</name>
     <url>http://www.wildfly.org</url>

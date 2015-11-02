@@ -43,8 +43,8 @@
     <dependencies>
 
       <dependency>
-         <groupId>org.jboss.quickstarts.eap</groupId>
-         <artifactId>jboss-jaxws-addressing-service</artifactId>
+         <groupId>org.jboss.quickstarts</groupId>
+         <artifactId>wildfly-jaxws-addressing-service</artifactId>
          <version>${project.version}</version>
          <classifier>classes</classifier>
       </dependency>
