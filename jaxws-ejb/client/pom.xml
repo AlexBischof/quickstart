@@ -52,7 +52,7 @@
     <dependencies>
 
       <dependency>
-          <groupId>org.jboss.quickstarts</groupId>
+          <groupId>org.wildfly.quickstarts</groupId>
           <artifactId>wildfly-jaxws-ejb-service</artifactId>
           <version>${project.version}</version>
          <classifier>classes</classifier>

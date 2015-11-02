@@ -42,7 +42,7 @@
 
     <dependencies>
       <dependency>
-         <groupId>org.jboss.quickstarts</groupId>
+         <groupId>org.wildfly.quickstarts</groupId>
          <artifactId>wildfly-jaxws-retail-service</artifactId>
          <version>${project.version}</version>
          <classifier>classes</classifier>
